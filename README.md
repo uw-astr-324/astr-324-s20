@@ -12,6 +12,8 @@
 
  * [Syllabus and course description](syllabus/syllabus.pdf)
  * [Lectures](lectures/)
+ * [JupyterHub Instructions](https://docs.google.com/document/d/19ivOqhnvtleRRkTYqeHRRSWYX4ZNQVaLaUlkJG2Z7UU/edit?usp=sharing)
+ * [Homeworks](https://github.com/uw-astr-324/astr-324-s20-homeworks)
 
 ## Reference textbook
 
