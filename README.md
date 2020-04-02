@@ -15,10 +15,10 @@ This repository ASTR 324 class materials. To get the latest versions into the cl
 ## Class Materials
 
  * [Syllabus and course description](syllabus/syllabus.pdf)
- * [Lectures](lectures/)
- * [JupyterHub](https://tinyurl.com/astr324-s20)
- * [JupyterHub Instructions](https://docs.google.com/document/d/19ivOqhnvtleRRkTYqeHRRSWYX4ZNQVaLaUlkJG2Z7UU/edit?usp=sharing)
- * [Homeworks](https://github.com/uw-astr-324/astr-324-s20-homeworks)
+ * Lectures: [Notebooks](lectures/), [Videos](https://tinyurl.com/astr324-s20-videos)
+ * [Canvas](https://canvas.uw.edu/courses/1387750) (used for quizzes only).
+ * [Homework assignments](https://github.com/uw-astr-324/astr-324-s20-homeworks)
+ * JupyterHub: [JupyterHub](https://tinyurl.com/astr324-s20), [instructions](https://docs.google.com/document/d/19ivOqhnvtleRRkTYqeHRRSWYX4ZNQVaLaUlkJG2Z7UU/edit?usp=sharing)
 
 ## Reference textbook
 
