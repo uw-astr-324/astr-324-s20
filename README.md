@@ -3,6 +3,10 @@
 
 [Mario Jurić](http://research.majuric.org), [@mjuric](http://github.com/mjuric) on GitHub
 
+This repository ASTR 324 class materials. To get the latest versions into the class JupyterHub, make sure you're logged in and then click:
+
+> https://tinyurl.com/astr324-s20-refresh-nb
+
 ## Location
 
  * When: TTh, 10:00am-11:20pm
